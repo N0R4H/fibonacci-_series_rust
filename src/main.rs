@@ -13,5 +13,5 @@ fn fib(z:&i32){
 }
 fn main(){
      let x:i32 = 10;
-     fib(&x)
+     fib(&x);
      }
