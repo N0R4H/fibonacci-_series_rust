@@ -1,1 +1,1 @@
-# fibonacci_series_rust
+# Rust intro
